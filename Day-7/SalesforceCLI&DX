@@ -1,0 +1,44 @@
+## Salesforce CLI Salesforce CLI & DX Workflow
+
+### Salesforce CLI
+
+Salesforce CLI (Command Line Interface) is a tool used to manage and develop Salesforce applications from the command line.
+
+It helps developers:
+
+* Create and manage projects
+* Connect orgs
+* Run deployments
+* Execute tests
+* Automate development tasks
+
+### Visual Studio Code VS Code Integration
+
+Salesforce integrates with VS Code to provide a better development environment.
+
+Features include:
+
+* Apex and Lightning development support
+* Code suggestions and debugging
+* Easy deployment and retrieval
+* Integrated terminal for Salesforce CLI commands
+* Extensions for Salesforce development
+
+### Development Workflow
+
+Typical Salesforce DX workflow:
+
+1. Create a Salesforce project
+2. Authorize and connect an org
+3. Develop code in VS Code
+4. Use Salesforce CLI for testing and deployment
+5. Track changes using Git
+6. Deploy code to production
+
+### Benefits
+
+* Faster development process
+* Improved productivity
+* Better team collaboration
+* Easier automation and deployment
+* Supports modern DevOps practices
